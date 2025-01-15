@@ -1,4 +1,4 @@
-- They/Them 🏳️‍🌈
+- He/They 🏳️‍🌈
 - Proud femboy uwu
 - Contact: gerartmartinez@gmail.com
 
