@@ -2,7 +2,7 @@
 
 I'm Gera — also known as Gerald or Pokhara.
 
-I'm a Software Engineer working on Supply Chain Solutions Software, with a full-stack background across Python, FastAPI, Node.js, React, TypeScript, AWS, Terraform, Infrastructure and Native Cloud Computing work.
+I'm a Software Engineer working on Supply Chain Solutions Software, with a Software Engineering background across Python, FastAPI, Node.js, React, TypeScript, AWS, Terraform, Infrastructure and Native Cloud Computing work.
 
 This profile has been quiet for a while — between work, some personal projects I've been exploring, and taking time to rest and recharge.
 
