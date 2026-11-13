@@ -7,7 +7,7 @@ I'm a Software Engineer working on Supply Chain Solutions Software, with a Softw
 This profile has been quiet for a while — between work, some personal projects I've been exploring, and taking time to rest and recharge.
 
 ## 🌱 Currently
-Building out some side projects and sharpening my skills — more to come soon.
+Building out some side projects and sharpening my skills.
 
 ---
 📫 Feel free to reach out or check out my pinned repos below.
